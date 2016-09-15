@@ -1,0 +1,6 @@
+{
+    "name": "couchODM",
+    "dependencies": {
+        "symbol": "0.3.0"
+    }
+}
