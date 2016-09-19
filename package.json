@@ -1,6 +1,7 @@
 {
-    "name": "couchODM",
+    "name": "codmap",
     "dependencies": {
-        "symbol": "0.3.0"
+        "symbol": "0.3.0",
+        "nano": "6.2.0"
     }
 }

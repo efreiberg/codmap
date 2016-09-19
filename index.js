@@ -1,4 +1,4 @@
-//Todo Promise and Schema Polyfills
+//Todo Promise Polyfill
 
 module.exports = {
     Types: require('./lib/types').SchemaTypes,
